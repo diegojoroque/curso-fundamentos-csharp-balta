@@ -1,0 +1,14 @@
+C:\projects\HtmlEditor\obj\Debug\net8.0\HtmlEditor.GeneratedMSBuildEditorConfig.editorconfig
+C:\projects\HtmlEditor\obj\Debug\net8.0\HtmlEditor.AssemblyInfoInputs.cache
+C:\projects\HtmlEditor\obj\Debug\net8.0\HtmlEditor.AssemblyInfo.cs
+C:\projects\HtmlEditor\obj\Debug\net8.0\HtmlEditor.csproj.CoreCompileInputs.cache
+C:\projects\HtmlEditor\bin\Debug\net8.0\HtmlEditor.exe
+C:\projects\HtmlEditor\bin\Debug\net8.0\HtmlEditor.deps.json
+C:\projects\HtmlEditor\bin\Debug\net8.0\HtmlEditor.runtimeconfig.json
+C:\projects\HtmlEditor\bin\Debug\net8.0\HtmlEditor.dll
+C:\projects\HtmlEditor\bin\Debug\net8.0\HtmlEditor.pdb
+C:\projects\HtmlEditor\obj\Debug\net8.0\HtmlEditor.dll
+C:\projects\HtmlEditor\obj\Debug\net8.0\refint\HtmlEditor.dll
+C:\projects\HtmlEditor\obj\Debug\net8.0\HtmlEditor.pdb
+C:\projects\HtmlEditor\obj\Debug\net8.0\HtmlEditor.genruntimeconfig.cache
+C:\projects\HtmlEditor\obj\Debug\net8.0\ref\HtmlEditor.dll
