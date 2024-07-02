@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\projects\\HtmlEditor\\HtmlEditor.csproj": {}
+    "C:\\development\\curso-fundamentos-csharp-balta\\HtmlEditor\\HtmlEditor.csproj": {}
   },
   "projects": {
-    "C:\\projects\\HtmlEditor\\HtmlEditor.csproj": {
+    "C:\\development\\curso-fundamentos-csharp-balta\\HtmlEditor\\HtmlEditor.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\projects\\HtmlEditor\\HtmlEditor.csproj",
+        "projectUniqueName": "C:\\development\\curso-fundamentos-csharp-balta\\HtmlEditor\\HtmlEditor.csproj",
         "projectName": "HtmlEditor",
-        "projectPath": "C:\\projects\\HtmlEditor\\HtmlEditor.csproj",
+        "projectPath": "C:\\development\\curso-fundamentos-csharp-balta\\HtmlEditor\\HtmlEditor.csproj",
         "packagesPath": "C:\\Users\\diego\\.nuget\\packages\\",
-        "outputPath": "C:\\projects\\HtmlEditor\\obj\\",
+        "outputPath": "C:\\development\\curso-fundamentos-csharp-balta\\HtmlEditor\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\diego\\AppData\\Roaming\\NuGet\\NuGet.Config"
