@@ -2,7 +2,7 @@
 
 * Aplicações dotnet tendem a começar com letra maiúscula.
 
-* Comandos do terminal e do Visual Studio Code úteis no C#:
+* Comandos e atalhos do terminal e do Visual Studio Code úteis para o C#:
     * ```cd``` navegação até uma determinada pasta
     * ```cd ..``` retorna uma determinada pasta
     * ```mkdir``` cria nova pasta
